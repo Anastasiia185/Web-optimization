@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.dll
+*.lib
+*.exp
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+
+# Logs
+*.log
