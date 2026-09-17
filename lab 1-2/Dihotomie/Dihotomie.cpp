@@ -11,8 +11,8 @@ double f(double x)
 int main() 
 {
     cout << fixed << setprecision(4);
-    double a = 3.20;
-    double b = 3.45;
+    double a = 2.70;
+    double b = 3.20;
     double eps   = 0.001;
     double sigma = eps / 10.0;
 
