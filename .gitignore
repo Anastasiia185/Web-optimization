@@ -17,3 +17,8 @@ x64/
 
 # Logs
 *.log
+
+# VS Code settings
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
