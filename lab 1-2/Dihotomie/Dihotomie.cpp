@@ -55,7 +55,7 @@ int main()
     double xStar = (a + b) / 2.0;
     cout << "\nResult:\n";
     cout << "x* = " << xStar << "\n";
-    cout << "f(x*) = " << f(xStar) << "\n";
+    cout << "f(x*) = " << f(xStar) << "\n";І
     cout << "Iterations: " << k << "\n";
     cout << "Interval: [" << a << ", " << b << "]\n";
 
